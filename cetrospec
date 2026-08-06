@@ -1,0 +1,16 @@
+# oorexx-tinylog: a tiny logging library for Open Object Rexx
+
+package tinylog
+version 1.0.0
+
+summary A tiny logging library for Open Object Rexx
+
+description """
+A lightweight logging library providing six log levels, optional colored console output, optional file logging, and extensible formatting and output.
+"""
+
+license Apache-2.0
+author Salvador Parra Camacho
+homepage https://github.com/sparrac/oorexx-tinylog
+
+require oorexx >= 5.0
