@@ -100,6 +100,6 @@ Apache-2.0 #text(fill: rgb("#2EBE4F"))[• ooRexx 5.x]
       ]
       #h(80pt)
     ]
-    #v(60pt)
+    #v(80pt)
   ],
 )
