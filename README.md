@@ -6,6 +6,8 @@
 
 A tiny logging library for Open Object Rexx.
 
+![Demo](resources/tinylog-demo.gif)
+
 ## Description
 
 A lightweight logging library providing six log levels, optional colored console output, optional file logging, and extensible formatting and output for [Open Object Rexx](https://sourceforge.net/projects/oorexx/files/).
