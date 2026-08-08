@@ -1,2 +1,6 @@
 *.cls linguist-language=rexx
 *.rex linguist-language=rexx
+resources/*.typ export-ignore
+resources/*.cast export-ignore
+resources/*.sh export-ignore
+resources/*.ipe export-ignore
