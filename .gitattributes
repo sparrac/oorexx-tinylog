@@ -1,5 +1,9 @@
 *.cls linguist-language=rexx
 *.rex linguist-language=rexx
+
+.gitignore export-ignore
+.gitattributes export-ignore
+
 resources/*.typ export-ignore
 resources/*.cast export-ignore
 resources/*.sh export-ignore
